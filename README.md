@@ -13,3 +13,5 @@ Reading Part 4
 -lar bo’ladi.
 
 Shu hafta ham aynan qaysidir savol turi albatta qaytariladi.
+
+![Description](readme.png)
