@@ -1,12 +1,12 @@
 
-![[photo_2024-12-25_18-52-14.jpg]]
+![photo_2024-12-25_18-52-14](../photo_2024-12-25_18-52-14.jpg)
 - Poor
 - Humour
 - Funny
 - Powerful
 - Human
 - Think
-![[photo_2024-12-13_17-02-15.jpg]]
+![photo_2024-12-13_17-02-15](../photo_2024-12-13_17-02-15.jpg)
 Listening Part 5 | Smena 1 💯
 
 Catering business → Extract 1
