@@ -54,5 +54,7 @@ Yes, please.
 8. Would you like some tea?
 Yes, I’d love to.
 
-![[photo_2024-11-17_13-11-54 (2).jpg]]
+![Description of Image](../photo_2024-11-17_13-11-54%20%282%29.jpg)
+
+
 
